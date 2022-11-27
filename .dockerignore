@@ -5,3 +5,5 @@ Dockerfile
 docker-compose.yml
 Pipfile
 Pipfile.lock
+__pycache__
+friday-google-keys.json

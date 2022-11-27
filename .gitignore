@@ -2,3 +2,5 @@
 Pipfile
 Pipfile.lock
 .env.production
+__pycache__
+friday-google-keys.json
